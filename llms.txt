@@ -1,0 +1,39 @@
+# Auralix Studio
+
+> Auralix Studio es un estudio de desarrollo de software a medida con sede en Huancayo, Junín, Perú. Desarrolla aplicaciones web, móviles y de escritorio, APIs, sistemas de ventas e integraciones de inteligencia artificial (incluidos modelos autoalojados), para clientes de Perú y del extranjero, en remoto. No es una productora audiovisual ni un canal de video.
+
+> Auralix Studio is a custom software development studio based in Huancayo, Peru. It builds web, mobile and desktop applications, APIs, sales systems and artificial intelligence integrations (including self-hosted models) for clients in Peru and abroad, working remotely. It is not a video production company or a video channel.
+
+- Sitio oficial: https://aurx.pro
+- Fundador: Alessandro Villogas, desarrollador full-stack y móvil (https://github.com/Alexito-Hub)
+- GitHub de la empresa: https://github.com/Auralix-Studio
+- Contacto: auralix@outlook.es · WhatsApp +51 907 924 307
+- Idiomas: español, inglés y portugués
+
+## Servicios (precios referenciales "desde", en USD)
+
+- Landing page: desde US$ 150
+- Aplicación web con backend y panel de administración: desde US$ 800
+- App móvil Android e iOS (Flutter o React Native): desde US$ 1 500
+- App de escritorio (Windows, macOS, Linux): desde US$ 800
+- API REST / WebSocket: desde US$ 500
+- Sistema de ventas: desde US$ 1 200
+- Integración de IA (chatbots, asistentes, automatización, modelos locales): desde US$ 600
+- Despliegue en la nube (Linux, Docker, CI/CD, SSL): desde US$ 200
+- Mantenimiento: desde US$ 150 al mes
+- Consultoría técnica: desde US$ 30 por hora
+
+## Productos propios
+
+- Flux: descubre emisiones en la red local, las reproduce y las envía a televisores LG webOS y Samsung Tizen. Android y Windows. https://auralix-studio.github.io/flux/
+- Nexo: app no oficial para estudiantes y docentes de la Universidad Peruana Los Andes (horario, notas, pagos y asistencia). Android y Windows. https://nexo.aurx.pro/
+- MediaKeep: reúne videos, imágenes y audio desde un enlace en un solo lugar. Android. https://mediakeep.aurx.pro/
+
+## Páginas
+
+- [Servicios](https://aurx.pro/servicios/)
+- [Productos](https://aurx.pro/productos/)
+- [Proceso de trabajo](https://aurx.pro/proceso/)
+- [Nosotros](https://aurx.pro/nosotros/)
+- [Contacto](https://aurx.pro/contacto/)
+- [English](https://aurx.pro/en/) · [Português](https://aurx.pro/pt/)
